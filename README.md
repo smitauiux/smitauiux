@@ -8,9 +8,6 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 + Senior Front-End Developer @ Pariah Interactive
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=A855F7&width=500&lines=Vue+Developer;React+Enthusiast;Frontend+Engineer;UI%2FUX+Focused" />
-
-<br/>
 </div>
 
 
