@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # ✨ Smita Tarawade
 
@@ -16,28 +16,30 @@ Currently building cool things at **Pariah Interactive** as a **Senior Front-End
 
 ## 🌸 About Me
 
-- 🎨 Frontend developer focused on **Vue** and **React**
+- 🎨 Frontend developer focused on **Vue** and **React**, experienced with **Angular**
 - ⚡ Building smooth, responsive, and modern UI experiences
-- 🧩 Experienced with **Angular** in production applications
-- 🌱 Currently exploring deeper into Vue and React ecosystem
-- ☕ Cafe enthusiast
+- ☕ Art and Coffee enthusiast
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div>
 
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind,html,css,angular,firebase,git,figma" />
+<img src="https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,html,css,angular,git,figma" />
 
 </div>
 
 ---
+
+## 🌐 Connect With Me
+
+<div align="center"> <a href="https://linkedin.com/in/smitauiux"> <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://behance.net/smitauiux"> <img src="https://img.shields.io/badge/Behance-18181B?style=for-the-badge&logo=behance&logoColor=white"/> </a> <a href="mailto:smita.tarawade@gmail.com"> <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 
 ## 💫 Current Focus
 
 ```txt
 Vue.js • React • Frontend Architecture • UI Animation • Performance
 
-<div align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://behance.net/YOUR_BEHANCE"> <img src="https://img.shields.io/badge/Behance-18181B?style=for-the-badge&logo=behance&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+
 
