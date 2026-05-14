@@ -2,14 +2,16 @@
 
 ## ✨ Smita Tarawade 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=A855F7&width=500&lines=Vue+Developer;React+Enthusiast;Frontend+Engineer;UI%2FUX+Focused" />
+Currently creating immersive digital experiences at
 
-Frontend Developer at **Pariah Interactive** as a **Senior Front-End Developer** 💜
+### ✨ **Pariah Interactive**
+
+#### 💜 Senior Front-End Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=A855F7&width=500&lines=Vue+Developer;React+Enthusiast;Frontend+Engineer;UI%2FUX+Focused" />
 
 <br/>
 </div>
-
----
 
 
 ## 🌸 About Me
@@ -17,9 +19,6 @@ Frontend Developer at **Pariah Interactive** as a **Senior Front-End Developer**
 - 🎨 Frontend developer focused on **Vue** and **React**, experienced with **Angular**
 - ⚡ Building smooth, responsive, and modern UI experiences
 - ☕ Art and Coffee enthusiast
-
-
----
 
 
 ## 🛠 Tech Stack
@@ -31,9 +30,6 @@ Frontend Developer at **Pariah Interactive** as a **Senior Front-End Developer**
 </div>
 
 
----
-
-
 ## 🌐 Connect With Me
 
 <div> 
@@ -43,8 +39,6 @@ Frontend Developer at **Pariah Interactive** as a **Senior Front-End Developer**
   <a href="mailto:smita.tarawade@gmail.com"> <img src="https://img.shields.io/badge/Email-F3E8FF?style=for-the-badge&logo=gmail&logoColor=6D28D9"/> </a> 
 </div>
 
-
----
 
 ## 💫 Current Focus
 
