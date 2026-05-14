@@ -1,8 +1,6 @@
 <div>
 
 ## ✨ Smita Tarawade 
-
-Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 ```txt
 Senior Front-End Developer @ Pariah Interactive
 ```
