@@ -10,6 +10,8 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 
 </div>
 
+<br>
+<br>
 
 ## 🌸 About Me
 
@@ -17,6 +19,8 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 - ⚡ Building smooth, responsive, and modern UI experiences
 - ☕ Art and Coffee enthusiast
 
+<br>
+<br>
 
 ## 🛠 Tech Stack
 
@@ -26,6 +30,8 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 
 </div>
 
+<br>
+<br>
 
 ## 🌐 Connect With Me
 
@@ -36,6 +42,8 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
   <a href="mailto:smita.tarawade@gmail.com"> <img src="https://img.shields.io/badge/Email-F3E8FF?style=for-the-badge&logo=gmail&logoColor=6D28D9"/> </a> 
 </div>
 
+<br>
+<br>
 
 ## 💫 Current Focus
 
