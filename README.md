@@ -11,7 +11,6 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 </div>
 
 <br>
-<br>
 
 ## 🌸 About Me
 
@@ -19,7 +18,6 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 - ⚡ Building smooth, responsive, and modern UI experiences
 - ☕ Art and Coffee enthusiast
 
-<br>
 <br>
 
 ## 🛠 Tech Stack
@@ -31,18 +29,16 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 </div>
 
 <br>
-<br>
 
 ## 🌐 Connect With Me
 
 <div> 
-  <a href="https://linkedin.com/in/smitauiux"><img src="https://img.shields.io/badge/Linkedin-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=4C1D95" /></a> &nbsp;&nbsp;
-  <a href="https://behance.net/smitauiux"> <img src="https://img.shields.io/badge/Behance-E9D5FF?style=for-the-badge&logo=behance&logoColor=6D28D9"/> </a> 
+  <a href="https://linkedin.com/in/smitauiux"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7C3AED" style="border-radius:999px;" /></a> &nbsp;&nbsp;
+  <a href="https://behance.net/smitauiux">   <img src="https://img.shields.io/badge/Behance-A855F7?style=for-the-badge&logo=behance&logoColor=white&labelColor=9333EA" style="border-radius:999px;" /> </a> 
   &nbsp;&nbsp;
-  <a href="mailto:smita.tarawade@gmail.com"> <img src="https://img.shields.io/badge/Email-F3E8FF?style=for-the-badge&logo=gmail&logoColor=6D28D9"/> </a> 
+  <a href="mailto:smita.tarawade@gmail.com"> <img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A855F7" style="border-radius:999px;" /> </a> 
 </div>
 
-<br>
 <br>
 
 ## 💫 Current Focus
