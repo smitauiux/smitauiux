@@ -3,13 +3,9 @@
 ## ✨ Smita Tarawade 
 
 Frontend Developer crafting modern, interactive, and aesthetic web experiences.
-
-```
-+ Senior Front-End Developer @ Pariah Interactive
-```
+Senior Front-End Developer @ Pariah Interactive
 
 </div>
-
 <br>
 
 ## 🌸 About Me
@@ -17,7 +13,6 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 - 🎨 Frontend developer focused on **Vue** and **React**, experienced with **Angular**
 - ⚡ Building smooth, responsive, and modern UI experiences
 - ☕ Art and Coffee enthusiast
-
 <br>
 
 ## 🛠 Tech Stack
@@ -27,7 +22,6 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
 <img src="https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,html,css,angular,git,figma" />
 
 </div>
-
 <br>
 
 ## 🌐 Connect With Me
@@ -38,10 +32,4 @@ Frontend Developer crafting modern, interactive, and aesthetic web experiences.
   &nbsp;&nbsp;
   <a href="mailto:smita.tarawade@gmail.com"> <img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A855F7" style="border-radius:999px;" /> </a> 
 </div>
-
 <br>
-
-## 💫 Current Focus
-
-```txt
-Vue.js • React • Frontend Architecture • UI Animation • Performance
