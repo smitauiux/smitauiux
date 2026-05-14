@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Smita 👋
 
-<!--
-**smitauiux/smitauiux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on Angular, Vue.js, and modern web apps.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend developer
+- Interested in React & Next.js
+- Building clean UI and performant apps
+- Based in India
+
+## Tech Stack
+
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+Angular • Vue • TypeScript • JavaScript • RxJS • HTML • CSS • Tailwind
+
+## Featured Projects
+
+### Project Name
+Short description
+
+- Live Demo
+- GitHub Repo
+
+## Experience
+
+Company / Freelance / Internship details
+
+## Connect With Me
+
+LinkedIn
+Email
+Portfolio
